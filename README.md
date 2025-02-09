@@ -1,6 +1,6 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
+
 **durna-alakbarova/durna-alakbarova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+My name is Durna. Im a cognitive researcher with a passion for turning complex data into compelling, easy-to-understand stories. I also enjoy using my programming skills to improve workflow.
+
+⚡Tools:
+ - Programming & Data Analysis: R, SPSS, Python, SQL, VBA
+ - Experiment Building & Data Collection: E-Prime, PsychoPy, Pavlovia, QuestionPro, Qualtrics
+ - Visualization: Tableau, Microsoft Excel
+ -->
